@@ -1,0 +1,17 @@
+INSERT into productos_um(um_id,productos_id)VALUES(1,1);
+INSERT into productos_um(um_id,productos_id)VALUES(9,1);
+INSERT into productos_um(um_id,productos_id)VALUES(8,2);
+INSERT into productos_um(um_id,productos_id)VALUES(1,2);
+INSERT into productos_um(um_id,productos_id)VALUES(2,3);
+INSERT into productos_um(um_id,productos_id)VALUES(13,3);
+INSERT into productos_um(um_id,productos_id)VALUES(7,4);
+INSERT into productos_um(um_id,productos_id)VALUES(1,5);
+INSERT into productos_um(um_id,productos_id)VALUES(13,5);
+INSERT into productos_um(um_id,productos_id)VALUES(1,6);
+INSERT into productos_um(um_id,productos_id)VALUES(4,6);
+INSERT into productos_um(um_id,productos_id)VALUES(1,7);
+INSERT into productos_um(um_id,productos_id)VALUES(13,7);
+INSERT into productos_um(um_id,productos_id)VALUES(2,8);
+INSERT into productos_um(um_id,productos_id)VALUES(13,8);
+INSERT into productos_um(um_id,productos_id)VALUES(1,9);
+INSERT into productos_um(um_id,productos_id)VALUES(6,9);

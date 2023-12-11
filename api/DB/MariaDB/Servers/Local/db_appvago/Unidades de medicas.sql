@@ -1,0 +1,13 @@
+insert into um(descrip,unidad,cantidad)VALUES("Unidad",1,1);
+insert into um(descrip,unidad,cantidad)VALUES("Libra",1,1);
+insert into um(descrip,unidad,cantidad)VALUES("Cajetilla",1,1);
+insert into um(descrip,unidad,cantidad)VALUES("Caja",1,10);
+insert into um(descrip,unidad,cantidad)VALUES("Caja",1,24);
+insert into um(descrip,unidad,cantidad)VALUES("Caja",1,12);
+insert into um(descrip,unidad,cantidad)VALUES("Litro",1,1);
+insert into um(descrip,unidad,cantidad)VALUES("Carton",1,1);
+insert into um(descrip,unidad,cantidad)VALUES("Funda",1,12);
+insert into um(descrip,unidad,cantidad)VALUES("Funda",1,12);
+insert into um(descrip,unidad,cantidad)VALUES("Funda",1,10);
+insert into um(descrip,unidad,cantidad)VALUES("Lata",1,1);
+insert into um(descrip,unidad,cantidad)VALUES("Pesos",1,1);

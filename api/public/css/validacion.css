@@ -1,0 +1,147 @@
+html{
+	position: relative; 
+    min-height: 100%;
+   /*  background-image: url(../img/LOGOV.png);
+	background-repeat: no-repeat;
+	background-position: center center;	
+	background-size: 25% 40%; */
+	opacity: 0.9;
+}
+
+body{
+	margin: 0 0 65px;
+	
+}
+
+.glyphicon-ok{
+	color:#4cb050;
+	font-size: 2em;
+}
+.glyphicon-remove{
+	color:red;
+	font-size: 2em;
+}
+.btn{
+	font-size: 0.8em;
+	padding: 0;
+	line-height: 1!important;
+}
+
+#NAV{
+	min-height: 100px;
+	background: #00246a;
+	width: 100%;
+	box-shadow: 0 10px 20px rgba(37, 36, 36, 0.19), 0 6px 3px rgba(0,0,0,0.23);
+}
+
+.navbar{
+	border-radius: 0px;
+}
+
+.columna{
+	position: relative;
+}
+
+.navbar-brand{
+	font-size: 30px;
+	margin-top: 30px;
+	color: white;
+	position: absolute;
+	left: 0;
+	text-shadow:2px 2px 2px gray;
+	
+}
+
+#password,#account{
+	border-left: none!important;
+	border-radius: 0;
+}
+
+.input-group-addon{
+	border-radius: 0;
+}
+
+.fa-lock{
+	font-size: 18px;
+}
+
+
+.logo{
+	margin-top: 30px;
+	position: absolute;
+	right: 135px;
+
+}
+
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #ffffff;
+    border-color: #fff;
+}
+
+.panel-title{
+	color: black;
+	font-size: 24px;
+	text-align: center;
+
+}
+
+#login-session{
+	margin-top: 100px;
+}
+
+.input-group-addon{
+	    background-color: #fff;
+}
+
+
+.btn-reficoop, .btn-reficoop:hover{
+	background: #fa9e0d;
+	color: #fff;
+}
+
+.form-control{
+	height: 40px;
+}
+
+.btn{
+	    padding: 12px 12px;
+	    font-weight: bold;
+	    font-size: 16px;
+	    
+}
+
+#buscar{
+	width:800px;
+}
+.card-4 {
+box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 3px rgba(0,0,0,0.23);
+}
+
+main{
+ 
+}
+
+.footer{
+
+	width: 100%;
+    bottom: 0;
+    position: absolute;
+    height: 70px;
+    line-height: 70px;
+    overflow: hidden;
+	background: #00246a;
+	text-align: center;
+}
+
+
+.footer p{
+	color: #fff;
+}
+
+.footer p a{
+	text-transform: uppercase;
+	text-decoration: none;
+	cursor: pointer;
+	color: #fff;
+}
